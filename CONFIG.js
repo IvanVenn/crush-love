@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Làm người yêu tui nhé",
+  titleHeader: "Tui thích bà! Bà có thích tui không?",
   descriptionHeader:
-    " Nếu bà thoát ra và không trả lời thì có nghĩa là bà đã ĐỒNG Ý rồi đấy ^^ ",
-  buttonYes: "Đồng Ý",
+    " Nếu bà thoát ra và không trả lời thì có nghĩa là bà CÓ nha ^^ ",
+  buttonYes: "Có",
   buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn vì đã đồng ý",
+  titleModar: "Hehe",
   descriptionModar:
-    'Tui biết là cậu sẽ đồng ý làm người yêu tui mà ^^',
+    'Tui biết là bà thích tui mà ^^',
 };
